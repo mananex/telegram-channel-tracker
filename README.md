@@ -1,8 +1,8 @@
 # This is a simple telegram bot created for tracking new messages in personal chats, groups or channels
 ### Setup.
-Before installing dependencies, go to [here](https://my.telegram.org/auth?to=apps) and authorize. After authorization, copy the values in the `api_id` and `api_hash` fields and save them somewhere.
+Before installing dependencies, go to **[here](https://my.telegram.org/auth?to=apps)** and authorize. After authorization, copy the values in the `api_id` and `api_hash` fields and save them somewhere.
 
-Then go to the telegram bot [BotFather](https://t.me/BotFather) and create a new bot. After creating the bot, copy the **bot token** that botfather will give you and save it too. After these steps, install Python 3.x. I'm using Python version 3.12.1
+Then go to the telegram bot **[BotFather](https://t.me/BotFather)** and create a new bot. After creating the bot, copy the **bot token** that botfather will give you and save it too. After these steps, install Python 3.x. I'm using Python version 3.12.1
 
 
 Create a virtual environment and go to it.
@@ -53,3 +53,4 @@ ADMIN_ID                 = None # integer
 DATABASE_FILENAME        = 'base.db' # sqlite
 chat_message_max_letters = 35
 ```
+And now, replace `None` values with the values you copied earlier. Where it says `# string` paste the values inside the quotes (for example: `"124365876:va8jasdfgaudf"`)
