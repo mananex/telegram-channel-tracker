@@ -54,3 +54,5 @@ DATABASE_FILENAME        = 'base.db' # sqlite
 chat_message_max_letters = 35
 ```
 And now, replace `None` values with the values you copied earlier. Where it says `# string` paste the values inside the quotes (for example: `BOT_TOKEN = "3361714480:BBesiAym_dF_T9wTF03egVlR9YgtFnephoc"`)
+
+**Note:** You need to write your Telegram user ID into the `ADMIN_ID` variable. To get your user ID, go to the bot **[Get My ID](https://t.me/getmyid_bot)** and start it.
