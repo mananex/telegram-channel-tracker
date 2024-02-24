@@ -53,4 +53,4 @@ ADMIN_ID                 = None # integer
 DATABASE_FILENAME        = 'base.db' # sqlite
 chat_message_max_letters = 35
 ```
-And now, replace `None` values with the values you copied earlier. Where it says `# string` paste the values inside the quotes (for example: `"124365876:va8jasdfgaudf"`)
+And now, replace `None` values with the values you copied earlier. Where it says `# string` paste the values inside the quotes (for example: `BOT_TOKEN = "3361714480:BBesiAym_dF_T9wTF03egVlR9YgtFnephoc"`)
