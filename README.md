@@ -18,4 +18,9 @@ python3 -m venv channelTrackerVenv
 cd channelTrackerVenv
 ```
 
-then clone this repository into your virtual environment folder: `git clone `
+Then clone this repository into your virtual environment folder: 
+```
+git clone https://github.com/mananex/telegram-channel-tracker.git
+```
+...or download the archive of this repository and unzip it.
+
